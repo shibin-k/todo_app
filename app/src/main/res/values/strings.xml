@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+
+    <string name="edit_item_below">Edit Item Below:</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+</resources>
